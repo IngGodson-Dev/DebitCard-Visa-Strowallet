@@ -1,0 +1,15 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+h2
+{
+    color: blue;
+    background-color: gray;
+    width: 100%;
+    float: left;
+    height: 90px;
+    margin: 0;
+    place-content: center;
+}
